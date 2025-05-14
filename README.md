@@ -1,7 +1,7 @@
 # Identification of Neurological Diseases Using Deep Learning Methods
 
-1. **CNN Architecture and SNP Selection Process**
-   - ![Poster](images/poster.png)
+1. **FYP Poster**
+   ![Poster](images/poster.png)
 
 ---
 

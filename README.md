@@ -64,19 +64,19 @@ The project follows a structured pipeline consisting of three main steps:
 
 #### Key Visualizations:
 1. **CNN Architecture and SNP Selection Process**
-   - ![CNN Architecture](images/cnn_architecture.png)
+   - ![CNN Architecture](images/cnn_architecture.jpeg)
      - **Description:** The architecture of the proposed CNN model for AD classification. It processes SNP data through 1D CNN layers, max pooling, and fully connected layers. The figure also illustrates the SNP selection process using Sliding Window Association Test (SWAT) and Phenotype Influence Score (PIS).
 
 2. **Model Accuracy Comparison**
-   - ![Model Accuracy Comparison](images/model_accuracy_comparison.png)
+   - ![Model Accuracy Comparison](images/model_comparison.png)
      - **Description:** Bar chart comparing the accuracy of CNN, Random Forest, and XGBoost models. The CNN achieves the highest accuracy, demonstrating its superiority in capturing complex genetic interactions.
 
 3. **SHAP Summary Plot**
-   - ![SHAP Summary Plot](images/shap_summary_plot.png)
+   - ![SHAP Summary Plot](images/shap_analysis.png)
      - **Description:** SHAP summary plot showing feature importance for AD classification. High values of important SNPs (e.g., APOE, TOMM40) push predictions toward Alzheimer’s disease, while low values favor cognitively normal outcomes.
 
 4. **Pipeline Overview**
-   - ![Pipeline Overview](images/pipeline_overview.png)
+   - ![Pipeline Overview](images/system_architecture.png)
      - **Description:** Flowchart illustrating the overall pipeline from input genomic data to final classification using CNNs.
 
 ---

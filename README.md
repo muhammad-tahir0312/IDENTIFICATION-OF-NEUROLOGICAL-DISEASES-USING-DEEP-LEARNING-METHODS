@@ -1,6 +1,5 @@
 # Identification of Neurological Diseases Using Deep Learning Methods
 
-1. **FYP Poster**
    ![Poster](images/poster.png)
 
 ---
